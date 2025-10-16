@@ -2,7 +2,7 @@
 
 Tento projekt slúži ako **prehľad investičného portfólia**, ktoré spravujem cez platformu Trading212 a eToro  
 Obsahuje aktuálne podiely v ETF fondoch, akciách a dividendových tituloch, spolu s výpočtom alokácie a výnosnosti.
-👉 [Zobraziť portfólio v Google Sheets](https://docs.google.com/spreadsheets/d/1pLZQQccZ0qKba3MI4t7p1zUgPQg31-zsNKqVAtIH-JE/edit?usp=sharing)
+<br>👉 [Zobraziť portfólio v Google Sheets](https://docs.google.com/spreadsheets/d/1pLZQQccZ0qKba3MI4t7p1zUgPQg31-zsNKqVAtIH-JE/edit?usp=sharing)
 
 ---
 
